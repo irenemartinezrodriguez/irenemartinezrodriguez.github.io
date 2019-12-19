@@ -1,0 +1,83 @@
+@charset "utf-8";
+.jumbotron {
+    background-color:#EEC4F4;
+}
+body {
+    background-color:#EEC4F4;
+}
+.display-4 {
+    text-align: center;
+	color:#000000;
+}
+.datos {
+    width: 470px;
+    height: 32px;
+    margin-top: 2px;
+    margin-bottom: 8px;
+
+}
+.area {
+    width: 470px;
+    height: 32px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.consulta {
+    width: 470px;
+    height: 200px;
+}
+.lead {
+    text-align: center;
+}
+.press {
+    background-color:#000000;
+    color:#A2A1A1;
+    font-weight: lighter;
+   width: 450px;
+}
+.jumbotron {
+    text-align: center;
+    padding-top: 100px;
+	color:#787878;
+}
+.textito {
+    line-height: normal;
+    font-size: 70px;
+    margin-top: 7%;
+    text-align: center;
+    font-weight: 400;
+    font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+    font-style: normal;
+    margin-bottom: 25px;
+	color:#9000A1 ;
+}
+.texto {
+    font-weight: 400;
+    text-align: left;
+    font-size: large;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.foto {
+     text-align: center;
+    margin-top: 35px;
+}
+
+
+
+.titulo{
+	text-align: center;
+	color:#000000;
+	 margin-top: 28px;
+	
+}
+.fotolush{
+ text-align: center;
+    margin-top: 35px;
+}
+	
+
+	
+	
+
+
