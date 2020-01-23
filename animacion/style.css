@@ -1,0 +1,280 @@
+@charset "UTF-8";
+
+
+
+    
+.uno {
+	background:rgba(170,170,4,0.50);
+	transform:translate(-50px, 0);
+	border-radius:50%;
+	z-index:1;
+}
+
+
+
+ .dos {
+    background:rgba(193,103,123,0.50);
+    transform:translate(50px, 0);
+    border-radius:50%;
+	z-index:2; 
+
+
+}
+
+.tres {
+    background:rgba(103,191,193,0.50);
+	transform:translate(0, 50px);
+    border-radius:50%;
+	z-index:3;
+}
+
+.caja{
+	 width: 20%;
+     height: 20px;
+     box-shadow: 0 .3em .3em rgba(0, 0, 0, .5);
+     background: rgba#444444);
+     margin-bottom: 10px;
+	
+}
+
+.caja:hover{
+	width:100%;
+	}
+
+.b1{
+	 transition: width 2s linear;
+}
+
+.b2{
+	transition: width 2s ease-in;
+	}
+
+.b3{
+	transition: width 2s ease-out;
+	}
+
+
+.b4{
+	transition: width 2s ease-in-out;
+	}
+
+.b5{
+	transition: width 2s ease-in;
+	}
+
+
+.animacion-3:hover{
+	transform:scale(1,5);
+	
+}
+
+
+.card{
+	
+	overflow:scroll;
+	
+}
+
+
+
+
+.display-1{
+	
+	align-content:center;
+
+}
+
+.texto{
+	text-align: center;
+	margin-top: 40px;
+	
+}
+
+.foto{
+
+transform:translate(540px, 0px);
+	margin-top: 40px;
+	
+
+}
+
+.foto:hover{
+	background:#FFFFFF;
+	z-index:10;
+}
+
+.seccion1{
+	margin-left: 18px;
+	margin-top: 80px;
+}
+.texto {
+background:#FFFFFF;
+transition:all 4s;
+
+}
+
+.texto:hover{
+background:#F3C2F0;
+color:#050C61;
+}
+
+
+
+.titulo1,.titulo2, .titulo3{
+	
+	text-align: center;
+}
+
+
+
+
+
+
+.seccion2, .seccion3{
+	margin-left: 18px;
+	margin-top: 200px;
+	
+
+}
+
+
+
+
+.imagen{
+	
+	width: 300px;
+	height: 300px;
+	transform:translate(405px, 0px);
+	margin-top: 40px;
+	
+	
+}
+
+.imagen{
+	background:#EEBCF4;
+	
+	box-shadow:2px 1px 10px rgba(0,0,0,0.5);
+    transition:background 1s;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	
+	
+}
+
+.imagen:hover{
+	background:#FFFFFF;
+	z-index:10;
+overflow:scroll;
+	
+
+	
+	
+}
+
+
+.footer{
+	
+	height: 80px;
+margin-top: 80px;
+}
+
+.foto1{
+               transition: transform 1s ease-out;
+}
+
+.foto1:hover {
+			   transform:scale(1.1);}
+
+
+
+.foto2{
+               transition: transform 1s ease-out;
+}
+
+.foto2:hover {
+			   transform:scale(1.1);}
+
+
+
+.foto3{
+               transition: transform 1s ease-out;
+}
+
+.foto3:hover {
+			   transform:scale(1.1);}
+
+
+
+.foto4{
+               transition: transform 1s ease-out;
+}
+
+.foto4:hover {
+			   transform:scale(1.1);}
+
+
+
+
+
+.foto5{
+               transition: transform 1s ease-out;
+}
+
+.foto5:hover {
+			   transform:scale(1.1);}
+
+
+
+
+.foto6{
+               transition: transform 1s ease-out;
+}
+
+.foto6:hover {
+			   transform:scale(1.1);}
+
+
+
+
+.foto7{
+               transition: transform 1s ease-out;
+}
+
+.foto7:hover {
+			   transform:scale(1.1);}
+
+
+.foto8{
+               transition: transform 1s ease-out;
+}
+
+.foto8:hover {
+			   transform:scale(1.1);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
